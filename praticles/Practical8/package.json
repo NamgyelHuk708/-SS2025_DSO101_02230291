@@ -1,0 +1,23 @@
+{
+  "name": "practical8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamgyelHuk708/Practical8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamgyelHuk708/Practical8/issues"
+  },
+  "homepage": "https://github.com/NamgyelHuk708/Practical8#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
