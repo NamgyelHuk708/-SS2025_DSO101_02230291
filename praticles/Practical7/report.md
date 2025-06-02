@@ -157,9 +157,9 @@ pipeline {
   - Built Docker image
   - Pushed image to DockerHub: namgyelhuk708/simple-node-app:latest
 
- ![alt text](assets/9.png) 
+ ![alt text](assets/10.png) 
 
- ![alt text](assets/10.png)
+ ![alt text](assets/9.png)
 
 ## Challenges Faced & Solutions
 
@@ -186,7 +186,7 @@ pipeline {
   - Builds Docker image
   - Pushes image to DockerHub
 - **Docker Image:** 
-![alt text](assets/10.png)
+![alt text](assets/9.png)
 
 ## Conclusion
 
